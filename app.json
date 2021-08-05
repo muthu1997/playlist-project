@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "video-player",
+    "slug": "snack-b9d18308-0958-4382-9380-2aff5f3790b6",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.vplayer.sample"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.medhap.snackb9d183080958438293802aff5f3790b6"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
